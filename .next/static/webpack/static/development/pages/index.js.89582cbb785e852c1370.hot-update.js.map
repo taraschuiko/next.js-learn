@@ -1,0 +1,1 @@
+{"version":3,"file":"static/webpack/static/development/pages/index.js.89582cbb785e852c1370.hot-update.js","sources":["webpack:///./pages/index.jsx"],"sourcesContent":["export default () => (\n  <div>\n    <p>Hello Next.js</p>\n  </div>\n);\n"],"mappings":";;;;;;;;;;;;;;;AAAA;AAAA;AACA;AAAA;AAAA;AAAA;AAAA;AAAA;AACA;AAAA;AAAA;AAAA;AAAA;AAAA;AAFA;;;;A","sourceRoot":""}
